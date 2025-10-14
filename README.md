@@ -1,3 +1,23 @@
+# FreeAqua — ESP32 + FreeRTOS Aquarium Controller
+> Real-time control (scheduling, sensor fusion) with MQTT + OTA.
+
+**Highlights**
+- ESP32 + FreeRTOS tasks (sensors, pump, lighting) & watchdog
+- MQTT (retain, LWT), config via NVS, OTA firmware
+- PlatformIO + unit tests on hardware-in-the-loop (HIL)
+
+**Quickstart**
+```bash
+# PlatformIO
+pio run -t upload && pio device monitor
+# MQTT topics: [FILL]
+```
+
+
+
+
+
+
 # Introduction
 The "Smart Aquarium System" is an aquarium automation solution, using FreeRTOS to coordinate tasks on the microcontroller.
 
