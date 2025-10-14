@@ -1,3 +1,7 @@
+iot-freeaqua-rtos
+└─ README.md:
+# 🐠 FreeAqua — IoT Aquarium System
+![banner](docs/banner.png)
 
 
 
