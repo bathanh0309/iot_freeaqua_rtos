@@ -3,7 +3,10 @@ Nghiên cứu thiết kế mạch quản lí hồ cá theo thời gian thực
 Thành viên: Nguyễn Bá Thành, Võ Đức Hiếu, Trương Văn Cường
 
 Thành phần: 
-- ESP32, OLED, App RainMaker, cảm biến thời gian thực, cảm biến độ đục nước, cảm biến nhiệt độ nước, các linh kiện khác ... 
+- ESP32, OLED, App RainMaker
+- 2 Động cơ DC (Lọc nước khi đục, cho cá ăn khi đến giờ)
+- Cảm biến thời gian thực, cảm biến độ đục nước, cảm biến nhiệt độ nước
+- Các linh kiện khác ... 
 
 Kết quả: Hệ thống hoạt động tốt, FreeRTOS đáp ứng yêu cầu
 
